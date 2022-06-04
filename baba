@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1,americam horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
+
+#EXTINF:-1,estrella tv
+https://estrellatv-plex.amagi.tv/playlist.m3u8
