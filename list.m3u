@@ -1,0 +1,8 @@
+#EXTINF:-1,americam horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
+
+#EXTINF:-1,estrella tv
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,I show you my feet up close!!
+https://dv-h.phprcdn.com/hls/videos/202205/23/408598691/,2160P_8000K,1440P_6000K,1080P_4000K,720P_4000K,480P_2000K,240P_1000K,_408598691.mp4.urlset/index-f1-v1-a1.m3u8?ttl=1653941020&l=0&ipa=187.212.45.2&hash=dbd267c479aef986c9a0774f239240b9
